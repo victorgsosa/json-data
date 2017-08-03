@@ -1,22 +1,16 @@
 {
-  "0005": {
-    "0000001193": {
-      "balance": [
-        {
-          "id": {
-            "commpany": "0005",
-            "customer": "0000001193"
-          },
-          "items": [
-            {
-              "localAmount": 3400.30
-            },
-            {
-              "localAmount": 3500.40
-            }
-          ]
-        }
-      ]
-    }
+  "00050000001193": {
+    "id": {
+      "commpany": "0005",
+      "customer": "0000001193"
+    },
+    "items": [
+      {
+        "localAmount": 3400.30
+      },
+      {
+        "localAmount": 3500.40
+      }
+    ]
   }
 }
