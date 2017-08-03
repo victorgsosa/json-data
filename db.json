@@ -1,21 +1,22 @@
 {
-    "balance": [
+  "0005": {
+    "0000001193": {
+      "balance": [
         {
-            "id": {
-               "commpany": "0005",
-               "customer": "0000001193"
-           },
-           "items": [
+          "id": {
+            "commpany": "0005",
+            "customer": "0000001193"
+          },
+          "items": [
             {
-                "localAmount": 3400.30
+              "localAmount": 3400.30
             },
             {
-                "localAmount": 3500.40
+              "localAmount": 3500.40
             }
-        ]
-       }
-   ],
-    "profile": {
-        "name": "typicode"
+          ]
+        }
+      ]
     }
+  }
 }
